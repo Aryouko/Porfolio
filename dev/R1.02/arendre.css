@@ -1,0 +1,77 @@
+body { 
+	background-image: url("images/66199bccdd906e755c923a54_Dann-Header-01-p-2000.webp");
+}
+
+.navbar {
+	text-align:left;
+	color: white;
+}
+
+.order {
+	text-align: right;
+}
+
+table {
+	width:100%;
+	padding-right:10px;
+	padding-left:10px;
+	margin-left:10px;
+	margin-right: 10px;
+ }
+
+.orderstyle {
+	margin: 10px auto;
+    max-width: 150px;
+    padding: 5px;
+    background: orange;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    text-align:center;
+}
+
+.orderstyle2 {
+	margin: 10px auto;
+    max-width: 150px;
+    padding: 5px;
+    background: orange;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    text-align:center;
+    left: 25px;
+}
+
+.menustyle {
+	margin: 10px auto;
+    max-width: 150px;
+    padding: 5px;
+    color:white;
+    border: solid;
+    border-color:white;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    text-align:center;
+}
+
+.title {
+	text-align:center;
+	color: white;
+	font-weight: bold;
+	font-size: 2em;
+	margin: 5px;
+}
+
+.coffee {
+	width: 100px;
+	text-align:center;
+}
+
+.underbutton {
+	text-align:center;
+	color: white;
+	font-weight: bold;
+}
+
+.onbutton {
+	text-align:center;
+	color: white;
+}
