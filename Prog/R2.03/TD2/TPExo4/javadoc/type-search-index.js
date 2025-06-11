@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"My1Exception"},{"p":"<Unnamed>","l":"My2Exception"},{"p":"<Unnamed>","l":"TestException"}];updateSearchResults();

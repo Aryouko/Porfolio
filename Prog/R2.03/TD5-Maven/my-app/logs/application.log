@@ -1,0 +1,2 @@
+11:18:10.385 [main] INFO  com.example.ExampleClass -  Ceci est un message d’information. 
+11:18:10.387 [main] ERROR com.example.ExampleClass -  Ceci est un message d’erreur. 

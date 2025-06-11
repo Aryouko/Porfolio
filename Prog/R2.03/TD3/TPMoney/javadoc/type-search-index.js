@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"BadCurrencyException"},{"p":"<Unnamed>","l":"IMoney"},{"p":"<Unnamed>","l":"Money"},{"p":"<Unnamed>","l":"MoneyBag"},{"p":"<Unnamed>","l":"NotTheSameException"},{"p":"<Unnamed>","l":"TestMoney"},{"p":"<Unnamed>","l":"TestMoneyBag"}];updateSearchResults();

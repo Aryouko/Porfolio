@@ -1,0 +1,7 @@
+com/mycompany/app/BadCurrencyException.class
+com/mycompany/app/NotTheSameException.class
+com/mycompany/app/App.class
+com/mycompany/app/Money.class
+com/mycompany/app/MoneyBag.class
+com/mycompany/app/IMoney.class
+com/example/ExampleClass.class
